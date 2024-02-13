@@ -15,7 +15,7 @@ Step 3: Run the TCL program (Forward the steps and Press RUN Button ▶️ )
 ns lab3.tcl
 ```
 
-Step 4: Check output of previous step (DONT EDIT ANYTHING!)▶️
+Step 4: Check output of previous step (DONT EDIT ANYTHING!)
 ```
 gedit fil1.tr 
 ```
