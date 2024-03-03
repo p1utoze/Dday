@@ -1,5 +1,12 @@
 # Program 10
 
+# Table of contents
+- [Advantages of BSS](#advantages-of-bss)
+- [Disadvantages of BSS](#disadvantages-of-bss)
+- [Advantages of ESS](#advantages-of-ess)
+- [Similarites between ESS and BSS](#similarities-between-the-two)
+- [Execution Steps](#steps)
+  
 Basic Service Set (BSS) : Basic Service Set (BSS), as name suggests, is a group or set of all stations that communicate with each together. Here, stations are considered as computers or components connected to wired network.
  
 ### **Advantages of BSS:**
@@ -28,7 +35,9 @@ Basic Service Set (BSS) : Basic Service Set (BSS), as name suggests, is a grou
 * Security: Both BSS and ESS can implement security measures, such as encryption and authentication, to protect the network and its users from unauthorized access.
 * Roaming: Both BSS and ESS support client device roaming, which allows users to move from one coverage area to another without losing connectivity.
 
-# EXecute steps
+---
+
+# Steps
 
 Step 1: Create tcl file and write the code
 ```
